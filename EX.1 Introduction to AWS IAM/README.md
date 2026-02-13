@@ -67,7 +67,7 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** KEERTHANA D
-**REG NO**: 212224040155
-**Course:** Introduction to Cloud Computing  
+## Name: KEERTHANA D
+## REG NO: 212224040155
+## Course: Introduction to Cloud Computing  
 
